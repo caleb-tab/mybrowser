@@ -1,0 +1,20 @@
+{
+  "name": "codespaces-tabbed-browser",
+  "version": "1.0.0",
+  "description": "A simple tabbed browser for GitHub Codespaces",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "codespaces",
+    "browser",
+    "iframe",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
